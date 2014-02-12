@@ -4,8 +4,8 @@
 package test;
 
 /**
- * @author scottwilliams
- *
+ * @author Scott Williams
+ *	Testing marc4j library 
  */
 public class TestMain {
 
